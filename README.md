@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @misko02, 21 years old IT Student on Adam Mickiewicz's University, Poznań, Poland.
+- 👋 Hi, I’m @misko02, 23 years old IT Student on Adam Mickiewicz's University, Poznań, Poland.
 - 👀 I’m interested in programming, philosophy, math, psychology and music. 
 - 🌱 I’m currently learning Web Development, using .NET technologies for Backend.
 - 💞️ Im looking for collaboration with people that like to share their knowledge :) 
